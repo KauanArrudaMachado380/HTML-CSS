@@ -1,0 +1,50 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(148, 148, 147);
+    margin: 0%;
+}
+header{
+    font-size: 20px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(253, 253, 252);
+    margin: 10px;
+    border-radius: 10px;
+}
+nav{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    box-shadow: 2px 2px 4px 1px rgba(3, 3, 3, 0.445);
+}
+nav > a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 10px;
+}
+main{
+    background-color: azure;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    
+}
+article > h2 {
+    text-align: center;
+    background-color: red;
+    margin: 0%;
+}
+aside{
+    color: white;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
+footer>p{
+    margin: 0%;
+}
